@@ -1,0 +1,13 @@
+{
+    switch(+ a b)
+    {
+        case 1:
+        {
+            x = + z y;
+        }
+        case 2:
+        {
+            c = b;
+        }
+    }
+}
